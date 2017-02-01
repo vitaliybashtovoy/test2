@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Log in | Codecademy</title>
+    <link href="https://production.cdmycdn.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    <link href="/blog.rss" rel="alternate" title="Codecademy Blog" type="application/rss+xml" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="8inmSnX6lrPoHggK8Osq9F/Bw9A82eehHx8qTY7tubo=" name="csrf-token" />
+    <meta name="description" content="Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends."/>
+    <meta name="keywords" content="codecademy,coding,code,programming"/>
+
+    <meta property="fb:app_id" content="212500508799908"/>
+<meta property="og:url" content="https://www.codecademy.com/login"/>
+<meta property="og:site_name" content="Codecademy"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Log in"/>
+<meta property="og:description" content="Codecademy is the easiest way to learn how to code. It&#x27;s interactive, fun, and you can do it with your friends."/>
